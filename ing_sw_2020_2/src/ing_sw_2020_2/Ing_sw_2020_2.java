@@ -19,6 +19,7 @@ public class Ing_sw_2020_2 {
         System.out.println("Bienvenidos");
         System.out.println("Ingresando netbeans con github");
         System.out.println("Versión 1.0");
+        System.out.println("Versión 1.1 modificada desde Github");
     }
     
 }
